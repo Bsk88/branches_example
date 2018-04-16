@@ -6,6 +6,5 @@ package firstAutoTesterPackage;
 public class FirstAutoTester {
     public static void main(String[] args) {
         System.out.println("The class created firstAutoTesterPackage.FirstAutoTester");
-        System.out.println("изменил метод 1 автотестера");
     }
 }
