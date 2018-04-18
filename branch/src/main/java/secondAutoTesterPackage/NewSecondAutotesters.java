@@ -5,6 +5,6 @@ package secondAutoTesterPackage;
  */
 public class NewSecondAutotesters {
     public static void main(String[] args) {
-        System.out.println("NewSecond rgAutoTesters class");
+        System.out.println("NewSecondAut  oTesters class");
     }
 }
