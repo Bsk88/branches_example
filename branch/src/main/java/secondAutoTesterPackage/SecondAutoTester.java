@@ -5,6 +5,6 @@ package secondAutoTesterPackage;
  */
 public class SecondAutoTester {
     public static void main(String[] args) {
-        System.out.println("Второй автоматизатор создал свой класс\n");
+        System.out.println("   Второй автоматизатор создал свой класс\n");
     }
 }
